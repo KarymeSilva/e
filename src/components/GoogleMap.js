@@ -4,7 +4,7 @@ import PlacesAutocomplete, {
   geocodeByAddress,
   getLatLng,
 } from 'react-places-autocomplete';
-
+ 
 export class MapContainer extends Component {
   constructor(props) {
     super(props);
